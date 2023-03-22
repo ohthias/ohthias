@@ -1,4 +1,4 @@
-# Olá sou o Matheus
+# Olá, sou o Matheus
 - 🔭 Hoje estudo sobre back-end e front-end<br>
 - 🌱 Estudando Html e CSS<br>
 
