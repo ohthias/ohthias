@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Gabriel07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<hr>
 
 ## Ferramentas e Tecnologias
-(https://skillicons.dev/icons?i=figma,ai,pr,ps,blender,arduino,vscode)](https://skillicons.dev)
+[![My Skills ](https://skillicons.dev/icons?i=figma,ai,pr,ps,blender,arduino,vscode)](https://skillicons.dev)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height= "50" width="50"/>
           
 ## Estou aprendendo
