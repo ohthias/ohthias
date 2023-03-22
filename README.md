@@ -9,6 +9,6 @@
 
 ## Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,cpp,figma,ai,pr,arduino)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height= "40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height= "50" width="50"/>
           
 
