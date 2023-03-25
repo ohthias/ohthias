@@ -1,6 +1,6 @@
 # Olá, sou o Matheus
 - 🎓 Cursando Desenvolvimento de Sistemas
-- 🔭 Aprofundando em front-end<
+- 🔭 Aprofundando em front-end
 - 📖 Estudando Html, CSS e C++
 - 🤖 Competidor de OBR<br><br>
 
