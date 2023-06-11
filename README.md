@@ -7,8 +7,20 @@
 ## 🌐 Contato
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/matheusgabriel61) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mat.gss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Math_gss) 
 
+<br>
+
+## Projects Progress
+<ul>
+          <li>✈ Airplane-reserve - 0%</li>
+          <li>🎶 Astro - 5%</li>
+          <li>⚖ Medier - 15%</li>
+          <li>#  Tic-Tac-Toe - 55%</li>
+          <li>📚 Read Users - 1%</li>
+</ul>
+<br>
+
 ## 📊 Painel
-<div> 
+<div align="center"> 
 <a href="https://github.com/Matheus-Gabriel07"> 
           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Gabriel07&show_icons=true&theme=dark&hide_border_all_commits=true&count_private=true"/> 
           <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Gabriel07&layout=compact&count=7&theme=dark&hide_border(https://github.com/anuraghazra/github-readme-stats)"/>
