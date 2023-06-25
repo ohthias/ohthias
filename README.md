@@ -14,7 +14,7 @@
           <li>✈ Airplane-reserve - 0%</li>
           <li>🎶 Astro - 5%</li>
           <li>⚖ Medier - 15%</li>
-          <li>#  Tic-Tac-Toe - 55%</li>
+          <li>#  Tic-Tac-Toe - 100%</li>
           <li>📚 Read Users - 1%</li>
 </ul>
 <br>
