@@ -15,7 +15,7 @@
           <li>📚 Read Users - 1%</li>
           <li>🎶 Astro - 7%</li>
           <li>⚖ Medier - 15%</li>
-          <li>🤳 V6.0 Instagram - 17%</li>
+          <li>🤳 V6.0 Instagram - 55%</li>
           <li>#  Tic-Tac-Toe - 100%</li>
 </ul>
 <br>
