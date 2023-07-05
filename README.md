@@ -11,12 +11,10 @@
 
 ## 💻 Projects Progress
 <ul>
+          <li>🎶 Astro - 9%</li>
           <li>✈ Airplane-reserve - 0%</li>
           <li>📚 Read Users - 1%</li>
-          <li>🎶 Astro - 7%</li>
           <li>⚖ Medier - 15%</li>
-          <li>🤳 V6.0 Instagram - 100%</li>
-          <li>#  Tic-Tac-Toe - 100%</li>
 </ul>
 <br>
 
