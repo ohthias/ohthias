@@ -14,7 +14,7 @@
           <li>🎶 Astro - 9%</li>
           <li>✈ Airplane-reserve - 0%</li>
           <li>📚 Read Users - 1%</li>
-          <li>⚖ Medier - 15%</li>
+          <li>⚖ Forca - 2%</li>
 </ul>
 <br>
 
