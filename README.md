@@ -13,7 +13,7 @@
 <ul>
           <li>🎶 Astro - 33,7%</li>
           <li>✈ Airplane-reserve - 16,7%</li>
-          <li>Digital Nexus - 78,7%</li>
+          <li>Digital Nexus - 81,2%</li>
           <li>📚 Read Users - Em planejamento</li>
           <li>Secret released - Em produção</li>
           <li>Medier - Pausado</li>
