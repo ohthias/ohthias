@@ -11,8 +11,8 @@
 
 ## 💻 Projects Progress
 <ul>
-          <li>🎶 Astro - 33,7%</li>
-          <li>✈ Airplane-reserve - 16,7%</li>
+          <li>🎶 Astro - 55,2%</li>
+          <li>✈ Airplane-reserve - 25,7%</li>
           <li>Digital Nexus - 81,2%</li>
           <li>📚 Read Users - Em planejamento</li>
           <li>Secret released - Em produção</li>
