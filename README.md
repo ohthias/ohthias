@@ -9,17 +9,6 @@
 
 <br>
 
-## 💻 Projects Progress
-<ul>
-          <li>🎶 Astro - 80%</li>
-          <li>✈ Airplane-reserve - 100%</li>
-          <li>Digital Nexus - 90,2%</li>
-          <li>📚 Read Users - Em planejamento</li>
-          <li>Secret released - Em produção</li>
-          <li>Medier - Pausado</li>
-</ul>
-<br>
-
 ## 📊 Painel
 <div align="center"> 
 <a href="https://github.com/Matheus-Gabriel07"> 
