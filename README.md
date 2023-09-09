@@ -1,23 +1,37 @@
-# Olá, sou o Matheus
-- 🎓 Cursando Desenvolvimento de Sistemas
-- 🔭 Aprofundando em front-end
-- 🤖 Competidor de OBR<br><br>
+<div align="center">
+  <h1>Olá, sou o Matheus</h1>
+  <p>🎓 Cursando Desenvolvimento de Sistemas</p>
+  <p>🔭 Aprofundando em front-end</p>
+  <p>🤖 Competidor de OBR</p>
+</div>
 
-## 🌐 Contato
+<br>
+
+<div align="center">
+  <h2>🌐 Contacts 🌐</h2>
+  
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/matheusgabriel61) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mat.gss) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Math_gss) 
 
-## 📊 Painel
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Gabriel07&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Gabriel07&theme=dark&layout=compact&langs_count=8" />
-</a>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>📊 Statics 📊</h2>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Gabriel07&theme=dark" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Gabriel07&theme=dark&layout=compact&langs_count=8" />
+  </a>
+</div>
+
+<br>
           
 <div align="center">
-<br>
-<br>
+  <h2>💻 Technologies & skills 💻</h2>
+  <br><br>
           
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,sass,java,cpp,git,arduino,figma,blender,pr,arduino&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,cpp,java,git,github,vscode,arduino,md,figma,blender,pr&perline=8)](https://skillicons.dev)
 
 </div>
