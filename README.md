@@ -32,6 +32,6 @@
   <h2>💻 Technologies & skills 💻</h2>
   <br><br>
           
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,cpp,java,git,github,vscode,arduino,md,figma,blender,pr&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,nodejs,react,cpp,java,git,github,vscode,arduino,md,figma,blender,pr&perline=8)](https://skillicons.dev)
 
 </div>
