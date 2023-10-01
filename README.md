@@ -3,7 +3,6 @@
   <p>🎓 Cursando Desenvolvimento de Sistemas</p>
   <p>🔭 Aprofundando em front-end</p>
   <p>🤖 Competidor de OBR</p>
-  <p>❗ Todos os projetos pausados por um tempo ❗</p>
 </div>
 
 <br>
