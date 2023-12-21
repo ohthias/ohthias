@@ -73,8 +73,10 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Gabriel07&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Gabriel07&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheus-gabriel07&show_icons=true&locale=en&theme=dark" alt="matheus-gabriel07" height="180" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-gabriel07&show_icons=true&locale=en&layout=compact&langs_count=12&theme=dark" alt="matheus-gabriel07"  height="180" /></p>
+
 </div>
 
 ###
