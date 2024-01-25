@@ -11,5 +11,7 @@
 </p>
 
 <h2 align="center">🛠 Linguagens e ferramentas 🖥</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mysql,js,nodejs,react,java,arduino,pr,figma,md,github,vscode,eclipse)](https://skillicons.dev)
+<div align="center">
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mysql,js,nodejs,react,java,arduino,pr,figma,md,github,vscode,eclipse&perline=8)](https://skillicons.dev)
+</div>
