@@ -2,18 +2,18 @@
 <p>
   Sobre mim
   <ul>
-    <li>🎓 Cursando Desenvolvimento de Sistemas</li>
-    <li>🎨 Transformando ideais em projetos</li>
-    <li>🥽 Procrastinando, mas algum dia faço</li>
-    <li>🔭 Aprofundando em front-end</li>
-    <li>🤖 Competidor de OBR</li>
+    <li>🎓 Ultimo semetre em Analise e Desenvolvimento de Sistemas</li>
+    <li>🎨 Partcipando da V6 do Backdrop Build</li>
+    <li>🥽 Recriando projetos antigos</li>
+    <li>😪 Sofrendo pelo Android Studio</li>
+    <li>🤖 Mentor da <a href="https://github.com/VMRT-SESI">@SESI-VMRT</a></li>
   </ul>
 </p>
 
 <h2 align="center">🛠 Linguagens e ferramentas 🖥</h2>
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mysql,js,nodejs,react,java,arduino,pr,figma,md,github,vscode,eclipse&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,mysql,js,react,java,arduino,pr,figma,md,github,vscode,androidstudio,eclipse&perline=8)](https://skillicons.dev)
 </div><br>
 
 <div align="center">
@@ -24,4 +24,3 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheus-Gabriel07&theme=dark&layout=compact&langs_count=10" />
   </a>
 </div>
-
