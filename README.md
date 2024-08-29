@@ -3,7 +3,6 @@
   Sobre mim
   <ul>
     <li>🎓 Ultimo semetre em Analise e Desenvolvimento de Sistemas</li>
-    <li>🎨 Partcipando da V6 do Backdrop Build</li>
     <li>🥽 Recriando projetos antigos</li>
     <li>😪 Sofrendo pelo Android Studio</li>
     <li>🤖 Mentor da <a href="https://github.com/VMRT-SESI">@SESI-VMRT</a></li>
@@ -21,6 +20,6 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ohthias&theme=dark" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohthias&theme=dark&layout=compact&langs_count=10" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ohthias&theme=dark&layout=compact&langs_count=11" />
   </a>
 </div>
