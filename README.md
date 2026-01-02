@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" height="132" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1a3pic3FpN2p1cG94em9sZTVtbWVmNTNkMXA4Z3V5Ym1yMGJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBq4IBhQkC69ancGiJ/giphy.gif"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnQ1a3pic3FpN2p1cG94em9sZTVtbWVmNTNkMXA4Z3V5Ym1yMGJnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fBq4IBhQkC69ancGiJ/giphy.gif"  />
 
 ###
 
@@ -14,11 +14,17 @@
 
 ###
 
-<p align="left">Sou apaixonado por explorar novas linguagens de programação e desenvolver projetos inovadores que integram hardware e software. Tenho um grande interesse por robótica, especialmente utilizando Arduino, e busco criar experiências interativas que ganham vida com sensores, motores e muita criatividade. Gosto de revisitar projetos antigos, aprimorando ideias e adaptando soluções para enfrentar novos desafios.</p>
+Sou apaixonado por explorar novas linguagens de programação e desenvolver projetos que integram hardware e software.  
+Interesses principais:
+- Robótica e automação com Arduino e sensores
+- Desenvolvimento de software para integração com hardware
+- Aprimoramento de projetos antigos e inovação contínua
+
+### 🚀 Projetos destaques
+- [RoboStage](https://robostage.vercel.app) – Plataforma web pensada para equipes da FISRT LEGO League Challengue, desenvolvido em NEXTjs e Typescript
+- [INTEC](https://github.com/ohthias/lab-arduino) – Sistema academico colaborativo, desenvolvido em Python com Flask
 
 ---
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ohthias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -32,13 +38,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohthias/ohthias/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ohthias/ohthias/output/pacman-contribution-graph.svg">
 </picture>
-
-  
----
-
-<i align="left">“Cada fio, cada linha de código, é uma ponte entre a imaginação e o mundo real.”</i>
-
----
 
 <h5 align="left">🏆| Certificações</h5>
 
